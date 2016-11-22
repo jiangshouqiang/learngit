@@ -10,4 +10,8 @@ featurel
 Gdevs
 stash
 devs
+<<<<<<< Updated upstream
 test_stash
+=======
+stash
+>>>>>>> Stashed changes
