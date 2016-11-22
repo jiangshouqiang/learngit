@@ -9,3 +9,5 @@ dev
 featurel
 Gdevs
 stash
+devs
+test_stash
